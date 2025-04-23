@@ -1,0 +1,5 @@
+Criem toda a estrutura de testes nessa pasta
+
+Não se esqueçam de manter a mesma estrutura em main
+
+Não façam testes para as classes da pasta externo
